@@ -14,8 +14,8 @@ The next step is to improve CNN’s accuracy using a Residual Network. The archi
 
 The generalization accuracy of ResNet-34, ResNet-28 and ResNet-16 measured on the test set is compared:
 
-Network		Test accuracy
-	
-ResNet-34	90.59%
-ResNet-28	92.14%
-ResNet-16	90.59%
+| Network | Test accuracy |
+| ------- | ------------- |	
+|ResNet-34|90.59%|
+|ResNet-28|92.14%|
+|ResNet-16|90.59%|
