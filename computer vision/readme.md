@@ -19,3 +19,7 @@ The generalization accuracy of ResNet-34, ResNet-28 and ResNet-16 measured on th
 |ResNet-34|90.59%|
 |ResNet-28|92.14%|
 |ResNet-16|90.59%|
+
+Best-of-breed Model:
+--------------------
+Comparing Residual Networks, the ResNet-28 has the best performance with a generalization accuracy of 92.14%. It is a huge improvement compared with the FCN baseline of 88.46%.
