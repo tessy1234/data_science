@@ -24,3 +24,9 @@ The evaluation of the model on the test dataset results in the following confusi
 | Actual | False | TN= 94  [True Negative] | FP= 13  [False Positive] |
 |        | True  | FN= 15  [False Negative]| TP= 32  [True Positive]  |
 
+From the confusion matrix we get the following metrics:
+
+| F1 score | 69.56% |
+| accuracy | 82%    |
+
+
