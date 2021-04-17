@@ -1,15 +1,12 @@
-files:
-------
-1) Gaussian_Mixture_Model_Anomaly_Detection.ipynb
-2) Variational_Bayesian_Gaussian_Mixtures.ipynb
-
-explanation:
+application:
 ------------
-ad 1) Gaussian_Mixture_Model_Anomaly_Detection:
+ad 1) KMean
+
+ad 2) Gaussian_Mixture_Model_Anomaly_Detection:
 Gaussian Mixture Model is used for anomaly detection. 
 Instances located in low-density regions will be detected as anomalies.
 
-ad 2) Variational_Bayesian_Gaussian_Mixtures:
+ad 3) Variational_Bayesian_Gaussian_Mixtures:
 Automatically searching for the optimal number of clusters.
 Set the number of components to a value greater than the optimal number of clusters, 
 and the algorithm will eliminate the unnecessary clusters automatically.
