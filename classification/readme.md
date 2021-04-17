@@ -26,7 +26,7 @@ The evaluation of the model on the test dataset results in the following confusi
 
 From the confusion matrix we get the following metrics:
 
-| F1 score | accuracy |
+| F1 score | Accuracy |
 | -------- | -------- |
 | 69.56%   | 82%      |
 
