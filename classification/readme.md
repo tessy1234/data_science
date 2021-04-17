@@ -18,7 +18,9 @@ Performance:
 ------------
 The evaluation of the model on the test dataset results in the following confusion matrix:
 
-| Actual | False | Prediction              |                          |
+|        |       | Prediction              |                          |
 | ------ | ----- | ----------------------- | ------------------------ |
 |        |       | Negative                | Positive                 |
 | Actual | False | TN= 94  [True Negative] | FP= 13  [False Positive] |
+|        | True  | FN= 15  [False Negative]| TP= 32  [True Positive]  |
+
