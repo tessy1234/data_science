@@ -4,7 +4,7 @@ Classify persons having diabetes or not using classical machine learning techniq
 
 Dataset:
 --------
-A dataset consists of 768 instances and nine features with eight clinical features and one outcome feature.
+The dataset represented as a CSV-file "diabetes.csv" consists of 768 instances and nine features with eight clinical features and one outcome feature.
 
 The eight clinical features, also called predictor variables, are:  Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age.
 
