@@ -1,5 +1,5 @@
-Application:
-------------
+##Application:
+
 ### 1) K-Mean:
 
 ### 2) Gaussian_Mixture_Model_Anomaly_Detection:
