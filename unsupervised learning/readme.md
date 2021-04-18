@@ -1,6 +1,6 @@
 ## Application:
 
-### 1. K-Mean:
+### 1. K-Means Clustering:
 KMeans clustering algorithm works by first determining centroids of the clusters and second assigning instances to the clusters and the whole process is repeated until convergence.
    1. Unsupervised preprocessing followed by classification:  
    The goal is to improve classification performance. Unsupervised preprocessing using K-Means is followed by Logistic Regression classification. Clustering improves accuracy from 96.89% to 98%.
