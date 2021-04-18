@@ -5,7 +5,7 @@ Attention: Choose the right model for the right problem!
 
 What is Data Science all about?
 
-**Data Science** covers following topics:
+Data Science covers following topics:
 
 1.	Data Engineering
 2.	Data Visualization + Statistics
