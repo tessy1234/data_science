@@ -4,7 +4,6 @@
 
    1. Preprocessing:  
    Using K-Means algorithm to improve classification performance. Unsupervised preprocessing using K-Means is followed by Logistic Regression classification.
-
    2. Semi-Supervised Learning with KMeans:
    Semi-Supervised Learning: combination of unsupervised and supervised algorithms using a dataset that is partially labeled.
 
