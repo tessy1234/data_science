@@ -3,7 +3,7 @@
 ### 1. K-Mean:
 
    1. Preprocessing:  
-   Using K-Means algorithm to improve classification performance.
+   Using K-Means algorithm to improve classification performance. Unsupervised preprocessing using K-Means is followed by classification with Logistic Regression.
 
 ### 2. Gaussian_Mixture_Model_Anomaly_Detection:
 Gaussian Mixture Model is used for anomaly detection. 
