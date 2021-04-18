@@ -1,8 +1,9 @@
 ## Application:
 
 ### 1. K-Mean:
-  1. Preprocessing
-Using K-Means algorithm to improve classification performance.
+
+   1. Preprocessing
+   Using K-Means algorithm to improve classification performance.
 
 ### 2. Gaussian_Mixture_Model_Anomaly_Detection:
 Gaussian Mixture Model is used for anomaly detection. 
