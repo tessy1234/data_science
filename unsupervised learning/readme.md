@@ -11,7 +11,7 @@ KMeans clustering algorithm works by first determining centroids of the clusters
    3. Limit of K-Means:  
    Nonspherical shapes are not captured properly.
 
-### 2. Gaussian Mixture Model Anomaly_Detection:
+### 2. Gaussian Mixture Model Anomaly Detection:
 Gaussian Mixture Model is used for anomaly detection. 
 Instances located in low-density regions will be detected as anomalies.
 
