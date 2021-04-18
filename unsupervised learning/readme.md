@@ -2,8 +2,9 @@
 
 ### 1. K-Mean:
    1. Unsupervised preprocessing followed by classification:  
-   The goal is to improve classification performance. Unsupervised preprocessing using K-Means is followed by Logistic Regression classification.
-   Clustering improves accuracy from 96.89 to 98%.
+   The goal is to improve classification performance.  
+   Unsupervised preprocessing using K-Means is followed by Logistic Regression classification.  
+   Clustering improves accuracy from 96.89% to 98%.
    2. Semi-Supervised Learning with K-Means:     
    Semi-Supervised Learning is a combination of unsupervised and supervised algorithms using a dataset that is partially labeled.  
    Given a partially labeled dataset, clustering may be an effective way to label the dataset automatically.  
