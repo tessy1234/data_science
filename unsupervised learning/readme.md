@@ -7,6 +7,7 @@
    Semi-Supervised Learning is a combination of unsupervised and supervised algorithms using a dataset that is partially labeled.  
    Given a partially labeled dataset, clustering may be an effective way to label the dataset automatically.  
    KMeans algorithm applied to the digits dataset achieves an accuracy rate of about 93.8% compared to the baseline of 96.9%.
+   3. Limit of K-Means
 
 ### 2. Gaussian_Mixture_Model_Anomaly_Detection:
 Gaussian Mixture Model is used for anomaly detection. 
