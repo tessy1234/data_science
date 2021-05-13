@@ -14,8 +14,11 @@ Data Science has many facets:
 2.	Data Visualization + Statistics
 3.	**Machine Learning + Deep Learning**
 4.	Cloud Computing
+
 	a. Storage, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
+	
 	b. Possible solutions are on-premise HPC, cloud, multi-cloud or hybrid prem-cloud.
+	
 	c. Scalability in machine learning and deep learning is concerned with data scalability (instances, features) and computation scalability (iterations, epochs) at training time and user scalability at prediction time.
 
 
