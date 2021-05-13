@@ -11,6 +11,7 @@ Data Science has many facets:
         a. ETL
 	
 	b. Preprocessing, Normalization, Scaling, Imputation, Feature Enhancement, Shuffling
+	
 2.	Data Visualization + Statistics
 3.	**Machine Learning + Deep Learning**
 4.	Cloud Computing
