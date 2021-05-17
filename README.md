@@ -1,5 +1,5 @@
 # Data Science in Action:
-Demonstration of **Machine Learning** and **Deep Learning** applied to real world tasks.
+The repository provides examples for **Machine Learning** and **Deep Learning** applied to real world tasks.
 
 The real world proves the simple fact and this cannot be emphasized enough: 
 “Choose the right model for the right problem”.
