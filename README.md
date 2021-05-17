@@ -12,7 +12,9 @@ Data Science has many facets:
 	
 	b. Data pipelines	
 	
-	c. Model ETL (Extract, Transform, Load)
+	c. ETL (Extract, Transform, Load)
+	
+	d. Preprocessing for Machine Learning includes Normalization, Scaling, Imputation, Feature Enhancement, Shuffling
 2.	Data Visualization + Statistics:
 
 	a. Reporting
