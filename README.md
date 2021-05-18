@@ -33,7 +33,7 @@ Data Science has many facets:
 
 	a. Storage, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
 	
-	b. Possible solutions are on-premise HPC, cloud, multi-cloud or hybrid prem-cloud.
+	b. Possible solutions are on-prem, multi-cloud and hybrid-cloud deployments.
 	
 	c. Scalability in machine learning and deep learning is concerned with data scalability (instances, features) and computation scalability (iterations, epochs) at training time and user scalability at prediction time.
 
