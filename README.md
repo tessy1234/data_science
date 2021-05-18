@@ -38,15 +38,11 @@ Data Science has many facets:
 	c. Scalability in machine learning and deep learning is concerned with data scalability (instances, features) and computation scalability (iterations, epochs) at training time and user scalability at prediction time.
 5.	Quantum Computing:
 
-	Solve intractable problems in various fields.
+	Quantum systems with up to 65 qubits (IBM Quantum System One, 2020) are available. Solve intractable problems in various fields:
 	
 	a.	Simulating quantum mechanics (chemistry, material science) with applications, for example, in artificial photosynthesis, protein folding, lithium ion batteries and high temperature superconductivity.
 
 	b.	Cryptography
 	
-	c.	Optimization (Quantum Risk Analysis)
+	c.	Optimization
 	
-	d.	Machine Learning (Quantum Variational Classifier)
-
-
-
