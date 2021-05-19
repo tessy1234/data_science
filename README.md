@@ -31,7 +31,7 @@ Data Science has many facets:
 	c. Reinforcement Learning
 4.	Cloud Computing:
 
-	a. Storage, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
+	a. Store, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
 	
 	b. Possible solutions are on-prem, multi-cloud and hybrid-cloud deployments.
 	
