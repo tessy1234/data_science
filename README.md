@@ -4,6 +4,8 @@ The repository provides examples for **Machine Learning** and **Deep Learning** 
 The real world proves the simple fact and this cannot be emphasized enough: 
 “Choose the right model for the right problem”.
 
+![2021-06-20_174302](https://user-images.githubusercontent.com/41914070/122680548-fd2e7000-d1ef-11eb-9601-ac8a7b6f3ea1.jpg)
+
 Data Science has many facets:
 
 1.	Data Engineering:
