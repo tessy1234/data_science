@@ -13,20 +13,12 @@ Use XGBosst classifier, tune parameter using grid search, encode categorical var
 
 Performance:
 ------------
-The evaluation of the model on the test dataset results in the following confusion matrix:
+The evaluation of the model on the test dataset using different encoding schemes:
 
-|               |              | Prediction              |                          |
-| ------------- | ------------ | ----------------------- | ------------------------ |
-|               |              | <b>Negative</b>         | <b>Positive</b>          |
-| <b>Actual</b> | <b>False</b> | TN= 94  [True Negative] | FP= 13  [False Positive] |
-|               | <b>True</b>  | FN= 15  [False Negative]| TP= 32  [True Positive]  |
-
-From the confusion matrix we get the following metrics:
-
-| EmbeddingEncoder |          |
-| ---------------- | -------- |
-| ROC AUC          | Accuracy |
-| 0.8833           | 85.21%   |
+| EmbeddingEncoder |          | OneHotEncoder    |          | OrdinalEncoder   |          |
+| ---------------- | -------- | ---------------- | -------- | ---------------- | -------- |
+| ROC AUC          | Accuracy | ROC AUC          | Accuracy | ROC AUC          | Accuracy |
+| 0.8833           | 85.21%   | 0.8833           | 85.21%   | 0.8833           | 85.21%   |
 
 
 
