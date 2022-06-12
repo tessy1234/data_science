@@ -24,6 +24,7 @@ The evaluation of the model on the test dataset results in the following confusi
 From the confusion matrix we get the following metrics:
 
 | EmbeddingEncoder |          |
+| ---------------- | -------- |
 | ROC AUC          | Accuracy |
 | ---------------- | -------- |
 | 0.8833           | 85.21%   |
