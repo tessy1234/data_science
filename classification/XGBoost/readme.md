@@ -26,7 +26,6 @@ From the confusion matrix we get the following metrics:
 | EmbeddingEncoder |          |
 | ---------------- | -------- |
 | ROC AUC          | Accuracy |
-| ---------------- | -------- |
 | 0.8833           | 85.21%   |
 
 
