@@ -1,8 +1,9 @@
 # Data Science in Action:
 The repository provides examples for **Machine Learning** and **Deep Learning** applied to real world tasks.
 
-The real world proves the simple fact and this cannot be emphasized enough: 
-“Choose the right model for the right problem”.
+In the real world you have to choose the right model for the right problem but still Machine Learning is a complex process:
+
+![2021-06-20_174302](https://user-images.githubusercontent.com/41914070/122680548-fd2e7000-d1ef-11eb-9601-ac8a7b6f3ea1.jpg)
 
 Data Science has many facets:
 
