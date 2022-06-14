@@ -1,3 +1,7 @@
+Goal:
+-----
+Hypothesis testing.
+
 Problem Statement:
 ------------------
 Observational study, in which researchers observe participants. 
