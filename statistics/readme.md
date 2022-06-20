@@ -13,6 +13,7 @@ Observation: On average men eat more hot wings than women. Is this difference a 
 B)
 Given two independent Gaussian variables X and Y, with probability density functions pdf1 and pdf2, 
 then the task ist to calculate: 
+
 Z = X + Y ~ PDF(Z)
 
 Dataset:
@@ -21,6 +22,12 @@ Data source: Beerwings.csv
 
 Result:
 -------
+A)
 The claim that men eat more hot wings than women is a real effect.
 
+B)
+The probability density function of Z was calculated by the convolution of pdf1 and pdf2. 
+The test was based on mean=0 and sigma²=1 for both pdf1 and pdf2 and provided the correct solution for the PDF of Z with 
+
+E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
 
