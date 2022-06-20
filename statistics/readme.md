@@ -12,7 +12,8 @@ Observation: On average men eat more hot wings than women. Is this difference a 
 
 B)
 Given two independent Gaussian variables X and Y, with probability density functions pdf1 and pdf2, 
-then the task ist to calculate Z = X + Y ~ PDF(Z).
+then the task ist to calculate: 
+Z = X + Y ~ PDF(Z)
 
 Dataset:
 --------
