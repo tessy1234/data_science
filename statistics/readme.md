@@ -32,13 +32,14 @@ A)<ul>
 Observational study, in which researchers observe participants. In this case the number of hot wings eaten and beer consumed by patrons of a bar.
 </ul>
 
-Term 1
-: definition 1
-: definition 2
-
-Term 2
-: definition 1
-: definition 2
+<dl>
+    <dt>Term 1</dt>
+    <dd>definition 1</dd>
+    <dd>definition 2</dd>
+    <dt>Term 2</dt>
+    <dd>definition 1</dd>
+    <dd>definition 2</dd>
+</dl>
 
 A)
 The claim that men eat more hot wings than women is a real effect.
