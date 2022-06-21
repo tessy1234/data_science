@@ -11,7 +11,7 @@ In this case the number of hot wings eaten and beer consumed by patrons of a bar
 Observation: On average men eat more hot wings than women. Is this difference a random or real effect?
 
 B)
-Given two independent Gaussian variables X and Y, with probability density functions pdf1 and pdf2, 
+Given two independent Gaussian variables X and Y, with probability density functions PDF1 and PDF2, 
 then the task ist to calculate the total PDF of the sum of the two gaussian random variables: 
 
 Z = X + Y ~ PDF(Z)
@@ -26,7 +26,7 @@ A)
 The claim that men eat more hot wings than women is a real effect.
 
 B)
-The probability density function of Z was calculated by the convolution of pdf1 and pdf2 with mean and variance: 
+The probability density function of Z was calculated by the convolution of PDF1 and PDF2 with mean and variance of PDF(Z): 
 
 E(Z)=E(X)+E(Y) and Var(Z)=Var(X)+Var(Y)
 
