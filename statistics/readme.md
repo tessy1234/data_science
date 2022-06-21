@@ -33,10 +33,10 @@ Observational study, in which researchers observe participants. In this case the
 </ul>
 
 <dl>
-    <dt>Term 1</dt>
+    <dt>A)</dt>
     <dd>definition 1</dd>
     <dd>definition 2</dd>
-    <dt>Term 2</dt>
+    <dt>B)</dt>
     <dd>definition 1</dd>
     <dd>definition 2</dd>
 </dl>
