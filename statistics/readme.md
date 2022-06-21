@@ -16,10 +16,6 @@ then the task ist to calculate the total PDF of the sum of the two gaussian rand
 
 Z = X + Y ~ PDF(Z)
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
 Dataset:
 --------
 Data source: Beerwings.csv
@@ -34,4 +30,9 @@ The probability density function of Z was calculated by the convolution of pdf1 
 The test was based on mean=0 and sigma²=1 for both pdf1 and pdf2 and provided the correct solution for the Gaussian PDF of Z with 
 
 E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
+
+1. Sum of standard Gaussian random variables: 
+- correct solution. E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
+2. Sum of Gaussian random variables - confined grid size
+3. Sum of Gaussian random variables - enlarged grid size
 
