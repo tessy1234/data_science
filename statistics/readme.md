@@ -46,9 +46,11 @@ Result:
     <dt>C)</dt>
     <dd>
 The probability density function of Z was calculated by the convolution of PDF1 and PDF2 with mean and variance of PDF(Z): 
-
+	</dd>
+    <dd>
 E(Z)=E(X)+E(Y) and Var(Z)=Var(X)+Var(Y)
-
+	</dd>
+    <dd>
 It should be pointed out that a confined grid size can cause out-of-range error. Therefore be careful to set up the grid size correctly!
 
 1. Sum of standard Gaussian random variables: 
