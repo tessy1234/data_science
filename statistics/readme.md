@@ -66,5 +66,7 @@ It should be pointed out that a confined grid size can cause out-of-range error.
 	- Correct solution: Result was E(Z)=E(X)+E(Y)=3.999 and Var(Z)=Var(X)+Var(Y)=15.991 and compare it with the exact solution E(Z)=E(X)+E(Y)=4.0 and Var(Z)=Var(X)+Var(Y)=16.0.
 	The relatively small difference between the observed and exact solution arises from floating point arithmetic and the discretisation onto the grid.
 <dl>
+    <dd>
 For more detail see repo (<i>sum_of_gaussian_random_variables_test_*.ipynb</i>)
+	</dd>
 </dl>
