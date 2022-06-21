@@ -26,6 +26,8 @@ Data source:
 
 Result:
 -------
+  C hello
+  
 A)
 The claim that men eat more hot wings than women is a real effect.
 
