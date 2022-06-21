@@ -16,6 +16,10 @@ then the task ist to calculate:
 
 Z = X + Y ~ PDF(Z)
 
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
 Dataset:
 --------
 Data source: Beerwings.csv
