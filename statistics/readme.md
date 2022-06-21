@@ -52,6 +52,8 @@ E(Z)=E(X)+E(Y) and Var(Z)=Var(X)+Var(Y)
 	</dd>
 	<dd>
 It should be pointed out that a confined grid size can cause out-of-range error. Therefore be careful to set up the grid size correctly!
+	</dd>
+</dl>
 
 1. Sum of standard Gaussian random variables: 
 	- Given two independent gaussian variables: E(X)=E(Y)=0 and Var(X)=Var(Y)=1
@@ -63,5 +65,3 @@ It should be pointed out that a confined grid size can cause out-of-range error.
 	- Given two independent gaussian variables: E(X)=E(Y)=2 and Var(X)=Var(Y)=8
 	- Correct solution: Result was E(Z)=E(X)+E(Y)=3.999 and Var(Z)=Var(X)+Var(Y)=15.991 and compare it with the exact solution E(Z)=E(X)+E(Y)=4.0 and Var(Z)=Var(X)+Var(Y)=16.0.
 	The relatively small difference between the observed and exact solution arises from floating point arithmetic and the discretisation onto the grid.
-	</dd>
-</dl>
