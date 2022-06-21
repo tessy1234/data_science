@@ -41,7 +41,7 @@ The claim that men eat more hot wings than women is a real effect.
 B)
 The probability density function of Z was calculated by the convolution of PDF1 and PDF2 with mean and variance of PDF(Z): 
 
-E(Z)=E(X)+E(Y) and Var(Z)=Var(X)+Var(Y)
+&emsp; E(Z)=E(X)+E(Y) and Var(Z)=Var(X)+Var(Y)
 
 It should be pointed out that a confined grid size can cause out-of-range error. Therefore be careful to set up the grid size correctly!
 
