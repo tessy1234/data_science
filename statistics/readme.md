@@ -14,7 +14,7 @@ B)
 Given two independent Gaussian variables X and Y, with probability density functions PDF1 and PDF2, 
 then the task ist to calculate the total PDF of the sum of the two gaussian random variables: 
 
-Z = X + Y ~ PDF(Z)
+> Z = X + Y ~ PDF(Z)
 
 Dataset:
 --------
