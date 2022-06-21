@@ -36,7 +36,7 @@ The probability density function of Z was calculated by the convolution of PDF1 
 
 &emsp; It should be pointed out that a confined grid size can cause out-of-range error. Therefore be careful to set up the grid size correctly!
 
-1. Sum of standard Gaussian random variables: 
+A. Sum of standard Gaussian random variables: 
 	- Given two independent gaussian variables: E(X)=E(Y)=0 and Var(X)=Var(Y)=1
 	- Correct solution: Result was E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
 2. Sum of Gaussian random variables - confined grid size:
