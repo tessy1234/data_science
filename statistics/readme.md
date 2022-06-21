@@ -32,7 +32,7 @@ The test was based on mean=0 and sigma²=1 for both pdf1 and pdf2 and provided t
 E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
 
 1. Sum of standard Gaussian random variables: 
-- correct solution. E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
+	- correct solution. E(Z)=E(X)+E(Y)=0 and Var(Z)=Var(X)+Var(Y)=2
 2. Sum of Gaussian random variables - confined grid size
 3. Sum of Gaussian random variables - enlarged grid size
 
