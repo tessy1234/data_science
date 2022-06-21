@@ -25,6 +25,17 @@ Z = X + Y ~ PDF(Z)
 
 Dataset:
 --------
+<dl>
+    <dt>A)</dt>
+    <dd>
+Data source: Beerwings.csv	
+	</dd>	
+    <dt>C)</dt>
+    <dd>
+Data source: 	
+	</dd>	
+</dl>
+
 A)
 Data source: Beerwings.csv
 
