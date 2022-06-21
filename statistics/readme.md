@@ -67,6 +67,6 @@ It should be pointed out that a confined grid size can cause out-of-range error.
 	The relatively small difference between the observed and exact solution arises from floating point arithmetic and the discretisation onto the grid.
 <dl>
     <dd>
-For more detail see repo (<i>sum_of_gaussian_random_variables_test_*.ipynb</i>)
+For more details see repo (<code>sum_of_gaussian_random_variables_test_*.ipynb</code>)
 	</dd>
 </dl>
