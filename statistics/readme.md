@@ -26,7 +26,7 @@ Data source:
 
 Result:
 -------
-  C) Observational study, in which researchers observe participants. In this case the number of hot wings eaten and beer consumed by patrons of a bar.
+  C Observational study, in which researchers observe participants. In this case the number of hot wings eaten and beer consumed by patrons of a bar.
   
 A)
 The claim that men eat more hot wings than women is a real effect.
