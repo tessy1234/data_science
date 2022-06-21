@@ -28,13 +28,6 @@ Data source:
 
 Result:
 -------
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
 A)
 The claim that men eat more hot wings than women is a real effect.
 
@@ -43,7 +36,7 @@ The probability density function of Z was calculated by the convolution of PDF1 
 
 &emsp; E(Z)=E(X)+E(Y) and Var(Z)=Var(X)+Var(Y)
 
-It should be pointed out that a confined grid size can cause out-of-range error. Therefore be careful to set up the grid size correctly!
+&emsp; It should be pointed out that a confined grid size can cause out-of-range error. Therefore be careful to set up the grid size correctly!
 
 1. Sum of standard Gaussian random variables: 
 	- Given two independent gaussian variables: E(X)=E(Y)=0 and Var(X)=Var(Y)=1
