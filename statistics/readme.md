@@ -17,7 +17,8 @@ Observation: On average men eat more hot wings than women. Is this difference a 
     <dd>
 Given two independent Gaussian variables X and Y, with probability density functions PDF1 and PDF2, 
 then the task ist to calculate the total PDF of the sum of the two gaussian random variables: 
-
+	</dd>
+    <dd>
 Z = X + Y ~ PDF(Z)	
 	</dd>
 </dl>
