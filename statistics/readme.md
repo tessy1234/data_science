@@ -28,7 +28,7 @@ Dataset:
 <dl>
     <dt>A)</dt>
     <dd>
-Data source: &nbsp;&nbsp;Beerwings.csv	
+Data source: &nbsp;Beerwings.csv	
 	</dd>	
     <dt>C)</dt>
     <dd>
