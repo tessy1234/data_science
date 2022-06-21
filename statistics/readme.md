@@ -4,6 +4,23 @@ The purpose of this section is to show examples of hypothesis testing and statis
 
 Problem Statement:
 ------------------
+<dl>
+    <dt>A)</dt>
+    <dd>
+Observational study, in which researchers observe participants. 
+In this case the number of hot wings eaten and beer consumed by patrons of a bar.
+
+Observation: On average men eat more hot wings than women. Is this difference a random or real effect?
+	</dd>
+    <dt>B)</dt>
+    <dd>
+Given two independent Gaussian variables X and Y, with probability density functions PDF1 and PDF2, 
+then the task ist to calculate the total PDF of the sum of the two gaussian random variables: 
+
+&emsp; Z = X + Y ~ PDF(Z)	
+	</dd>
+</dl>
+
 A)
 Observational study, in which researchers observe participants. 
 In this case the number of hot wings eaten and beer consumed by patrons of a bar.
