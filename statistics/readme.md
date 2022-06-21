@@ -41,7 +41,7 @@ Result:
 <dl>
     <dt>A)</dt>
     <dd>
-	The claim that men eat more hot wings than women is a real effect (see repo: *two_sample_permutation_test_demo.ipynb*).
+	The claim that men eat more hot wings than women is a real effect (see repo: <i>two_sample_permutation_test_demo.ipynb</i>).
 	</dd>
     <dt>C)</dt>
     <dd>
