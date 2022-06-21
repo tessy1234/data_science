@@ -36,10 +36,19 @@ Observational study, in which researchers observe participants. In this case the
 <dl>
     <dt>A)</dt>
     <dd>Observational study, in which researchers observe participants. In this case the number of hot wings eaten and beer consumed by patrons of a bar. 1</dd>
-    <dd>definition 2</dd>
+    <dd>
+	definition 2
+	</dd>
     <dt>B)</dt>
     <dd>definition 1</dd>
     <dd>definition 2</dd>
+</dl>
+
+<dl>
+    <dt>A)</dt>
+    <dd>
+	The claim that men eat more hot wings than women is a real effect.
+	</dd>
 </dl>
 
 A)
