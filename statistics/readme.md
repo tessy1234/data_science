@@ -41,7 +41,7 @@ Result:
 <dl>
     <dt>A)</dt>
     <dd>
-	The claim that men eat more hot wings than women is a real effect (see repo: <i>two_sample_permutation_test_demo.ipynb</i>).
+	The claim that men eat more hot wings than women is a real effect (see repo: <code>two_sample_permutation_test_demo.ipynb</code>.
 	</dd>
     <dt>C)</dt>
     <dd>
@@ -67,6 +67,6 @@ It should be pointed out that a confined grid size can cause out-of-range error.
 	The relatively small difference between the observed and exact solution arises from floating point arithmetic and the discretisation onto the grid.
 <dl>
     <dd>
-For more details see repo (<code>sum_of_gaussian_random_variables_test_*.ipynb</code>)
+For more details see repo: <code>sum_of_gaussian_random_variables_test_*.ipynb</code>
 	</dd>
 </dl>
