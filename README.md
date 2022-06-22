@@ -1,5 +1,5 @@
 # Data Science in Action:
-The repository provides examples for **Machine Learning** and **Deep Learning** applied to real world tasks.
+The repository provides examples for Statistics, Machine Learning and Deep Learning applied to real world tasks.
 
 In the real world you have to choose the right model for the right problem but still Machine Learning is a complex process:
 
@@ -38,6 +38,7 @@ Data Science has many facets:
 	b. Unsupervised Learning
 	
 	c. Reinforcement Learning
+
 5.	Cloud Computing:
 
 	a. Store, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
@@ -45,6 +46,7 @@ Data Science has many facets:
 	b. Possible solutions are on-prem, multi-cloud and hybrid-cloud deployments.
 	
 	c. Scalability in machine learning and deep learning is concerned with data scalability (instances, features) and computation scalability (iterations, epochs) at training time and user scalability at prediction time.
+
 6.	Quantum Computing:
 
 	Quantum systems with up to 65 qubits (IBM Quantum System One, 2020) are available. Quantum computing is a path to solve intractable problems in various fields:
