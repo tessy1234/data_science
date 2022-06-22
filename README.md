@@ -41,11 +41,11 @@ Data Science has many facets:
 
 5.	Cloud Computing:
 
-	a. Store, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
+	a. Store, compute and scale infrastructure operating on-premise or in the cloud (GCP, Azure, AWS).
 	
 	b. Possible solutions are on-prem, multi-cloud and hybrid-cloud deployments.
 	
-	c. Scalability in machine learning and deep learning is concerned with data scalability (instances, features) and computation scalability (iterations, epochs) at training time and user scalability at prediction time.
+	c. Scalability in machine and deep learning is concerned with data and computation scalability (instances, iterations) at training time and user scalability at prediction time.
 
 6.	Quantum Computing:
 
