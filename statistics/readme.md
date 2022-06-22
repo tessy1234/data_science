@@ -15,7 +15,7 @@ Observation: On average men eat more hot wings than women. Is this difference a 
 	</dd>
     <dt>B)</dt>
     <dd>
-In a general social survey American were asked whether he or she favored or opposed the death penalty for murder. The question to be answered is, does support for death penalty depends on education. 	
+In a general social survey American were asked whether he or she favor or oppose the death penalty for murder. The question to be answered is, does support for death penalty depends on education. 	
 	</dd>
     <dd>
 In this example two categorical variables, Education and DeathPenalty, are tested for independence.
@@ -57,6 +57,9 @@ The null hypthesis to be tested is whether education and opinion about death pen
     <dd>
 The null hypthesis is declined.
 The p-value lies beneath the significant level of 1 percent and thus the conclusion is that education and support for death penalty are not independent.	
+	</dd>
+    <dd>
+For more details see repo: <code>permutation_test_for_independence_of_two_variables_demo.ipynb</code>
 	</dd>
     <dt>C)</dt>
     <dd>
