@@ -47,6 +47,10 @@ Result:
     <dd>
 	The claim that men eat more hot wings than women is a real effect (see repo: <code>two_sample_permutation_test_demo.ipynb</code>.
 	</dd>
+    <dt>B)</dt>
+    <dd>
+The null hypthesis to be tested is whether education and opinion about death penalty are independent.	
+	</dd>
     <dt>C)</dt>
     <dd>
 The probability density function of Z was calculated by the convolution of PDF1 and PDF2 with mean and variance of PDF(Z): 
