@@ -8,16 +8,19 @@ In the real world you have to choose the right model for the right problem but s
 Data Science has many facets:
 
 1.	Data Engineering:
+
 	a. Big data storage and processing	
 	b. Data pipelines		
 	c. ETL (Extract, Transform, Load)	
 	d. Preprocessing for Machine Learning includes Normalization, Scaling, Imputation, Feature Enhancement, Shuffling
 
 2.	Statistics:
+
 	a. Hypothesis testing	
 	b. Statistical analysis
 
 3.	Data Visualization:
+
 	a. Reporting	
 	b. Dash Boards	
 	c. Business Analytics
