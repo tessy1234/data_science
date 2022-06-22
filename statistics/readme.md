@@ -54,6 +54,10 @@ Result:
     <dd>
 The null hypthesis to be tested is whether education and opinion about death penalty are independent.	
 	</dd>
+    <dd>
+The null hypthesis is declined.
+The p-value lies beneath the significant level of 1 percent and thus the conclusion is that education and support for death penalty are not independent.	
+	</dd>
     <dt>C)</dt>
     <dd>
 The probability density function of Z was calculated by the convolution of PDF1 and PDF2 with mean and variance of PDF(Z): 
