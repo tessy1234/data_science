@@ -7,11 +7,12 @@ Problem Statement:
 <dl>
     <dt>A)</dt>
     <dd>
-Observational study, in which researchers observe participants. 
+In a study of hot wings and beer consumption at a bar researcher asked patrons at the bar to record their consumption of hot wings and beer over several hours.
+ 
 In this case the number of hot wings eaten and beer consumed by patrons of a bar.
 	</dd>
     <dd>
-Observation: On average men eat more hot wings than women. Is this difference a random or real effect?
+The researcher wanted to answer the question whether or not gender had an impact on hot wings consumption. Is the observation correct that on average men eat more hot wings than women?
 	</dd>
     <dt>B)</dt>
     <dd>
