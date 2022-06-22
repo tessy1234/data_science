@@ -52,7 +52,7 @@ The null hypthesis to be tested is whether females consume as many hot wings as 
 	</dd>
     <dd>
 The null hypthesis is declined.	
-On average men eat more hot wings than women.
+The p-value lies beneath the significant level of 1 percent and thus the conclusion is that on average men eat more hot wings than women.
 	</dd>
     <dd>
 For more details see repo: <code>two_sample_permutation_test_demo.ipynb</code>
