@@ -13,6 +13,10 @@ In this case the number of hot wings eaten and beer consumed by patrons of a bar
     <dd>
 Observation: On average men eat more hot wings than women. Is this difference a random or real effect?
 	</dd>
+    <dt>B)</dt>
+    <dd>
+In a general social survey American were asked whether he or she favored or opposed the death penalty for murder. The question to be answered is, does support for death penalty depends on education. 	
+	</dd>
     <dt>C)</dt>
     <dd>
 Given two independent Gaussian variables X and Y, with probability density functions PDF1 and PDF2, 
