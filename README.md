@@ -8,43 +8,35 @@ In the real world you have to choose the right model for the right problem but s
 Data Science has many facets:
 
 1.	Data Engineering:
-
-	a. Big data storage and processing
-	
-	b. Data pipelines	
-	
-	c. ETL (Extract, Transform, Load)
-	
+	a. Big data storage and processing	
+	b. Data pipelines		
+	c. ETL (Extract, Transform, Load)	
 	d. Preprocessing for Machine Learning includes Normalization, Scaling, Imputation, Feature Enhancement, Shuffling
 
 2.	Statistics:
-
-	a. Hypothesis testing
-	
+	a. Hypothesis testing	
 	b. Statistical analysis
 
-2.	Data Visualization:
-
-	a. Reporting
-	
-	b. Dash Boards
-	
+3.	Data Visualization:
+	a. Reporting	
+	b. Dash Boards	
 	c. Business Analytics
-3.	Machine and Deep Learning:
+
+4.	Machine and Deep Learning:
 
 	a. Supervised Learning
 	
 	b. Unsupervised Learning
 	
 	c. Reinforcement Learning
-4.	Cloud Computing:
+5.	Cloud Computing:
 
 	a. Store, compute and scale infrastructure operating on-premise or on any cloud environment (e.g. GCP, Azure, AWS).
 	
 	b. Possible solutions are on-prem, multi-cloud and hybrid-cloud deployments.
 	
 	c. Scalability in machine learning and deep learning is concerned with data scalability (instances, features) and computation scalability (iterations, epochs) at training time and user scalability at prediction time.
-5.	Quantum Computing:
+6.	Quantum Computing:
 
 	Quantum systems with up to 65 qubits (IBM Quantum System One, 2020) are available. Quantum computing is a path to solve intractable problems in various fields:
 	
