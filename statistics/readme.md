@@ -48,7 +48,14 @@ Result:
 <dl>
     <dt>A)</dt>
     <dd>
-	The claim that men eat more hot wings than women is a real effect (see repo: <code>two_sample_permutation_test_demo.ipynb</code>.
+The null hypthesis to be tested is whether females consume as many hot wings as males.
+	</dd>
+    <dd>
+The null hypthesis is declined.	
+On average men eat more hot wings than women.
+	</dd>
+    <dd>
+For more details see repo: <code>two_sample_permutation_test_demo.ipynb</code>
 	</dd>
     <dt>B)</dt>
     <dd>
