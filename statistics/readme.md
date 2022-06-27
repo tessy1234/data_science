@@ -29,7 +29,17 @@ H0: µ0 = 113,000; H1: µ0 ≠ 113,000; given: Population σ = 15,000
     <dd>
 Test null hypothesis at 10% significance.
 	</dd>
-    <dt>C)</dt>
+     <dt>D)</dt>
+    <dd>
+ Test for the mean. Population variance unknown.
+	</dd>
+    <dd>
+H0: µ0 = 40%; H1: µ0 ≠ 40%
+	</dd>
+    <dd>
+Test null hypothesis at 1% significance.
+	</dd>
+   <dt>E)</dt>
     <dd>
 Given two independent Gaussian variables X and Y, with probability density functions PDF1 and PDF2, 
 then the task ist to calculate the total PDF of the sum of the two gaussian random variables: 
