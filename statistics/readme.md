@@ -11,8 +11,8 @@ Goal:
 -----
 The purpose of this section is to show examples of hypothesis testing and statistical analysis.
 
-Problem Statement:
-------------------
+Problem Statements:
+-------------------
 <dl>
     <dt>A)</dt>
     <dd>
@@ -58,8 +58,8 @@ Z = X + Y ~ PDF(Z)
 	</dd>
 </dl>
 
-Result:
--------
+Results:
+--------
 <dl>
     <dt>A)</dt>
     <dd>
@@ -131,8 +131,8 @@ For more details see repo: <code>sum_of_gaussian_random_variables_test_*.ipynb</
 	</dd>
 </dl>
 
-Dataset:
---------
+Datasets:
+---------
 <dl>
     <dt>A)</dt>
     <dd>
