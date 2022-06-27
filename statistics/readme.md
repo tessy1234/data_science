@@ -134,20 +134,16 @@ For more details see repo: <code>sum_of_gaussian_random_variables_test_*.ipynb</
 Datasets:
 ---------
 <dl>
-    <dt>A)</dt>
     <dd>
 A) &nbsp;Data source: &nbsp;Beerwings.csv	
 	</dd>	
-    <dt>B)</dt>
     <dd>
-Data source: &nbsp;GSS2002.csv	
+B) &nbsp;Data source: &nbsp;GSS2002.csv	
 	</dd>	
-    <dt>C)</dt>
     <dd>
-Data source: &nbsp;	data_scientist_salary.xlsx
+C) &nbsp;Data source: &nbsp;	data_scientist_salary.xlsx
 	</dd>	
-    <dt>D)</dt>
     <dd>
-Data source: &nbsp;	email_spying.xlsx
+D) &nbsp;Data source: &nbsp;	email_spying.xlsx
 	</dd>	
 </dl>
