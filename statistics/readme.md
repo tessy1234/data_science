@@ -97,7 +97,7 @@ For more details see repo: <code>permutation_test_for_independence_of_two_variab
 	</dd>
     <dt>C)</dt>
     <dd>
-Solution: Null hypothesis (H0) is rejected	
+The test on the sample shows that at 10% significance, the data scientist's doesn't earn $113,000.	
 	</dd>
     <dd>
 For more details see repo: <code>Hypothesis_Testing_1_demo.ipynb</code>
@@ -107,7 +107,10 @@ For more details see repo: <code>Hypothesis_Testing_1_demo.ipynb</code>
 Solution: Null hypothesis (H0) is accepted	
 	</dd>
     <dd>
-For more details see repo: <code>Hypothesis_Testing_1_demo.ipynb</code>
+The test on the sample shows that at 1% significance, the competitor's open rate is likely to be 40%.
+	</dd>
+    <dd>
+For more details see repo: <code>Hypothesis_Testing_2_demo.ipynb</code>
 	</dd>
     <dt>E)</dt>
     <dd>
