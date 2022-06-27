@@ -1,3 +1,11 @@
+Motivation:
+-----------
+It is not commonsense especially for IT people to understand the importance of statistics.
+A/B testing, which is part of inferential statistics, is very important for Data Science and Machine Learning. 
+Suppose you want to test the current layout of a webpage with a new one or the current deployed ML model with a new one.
+These are typical applications of A/B testing, where you gather data from both groups (e.g. clickstreams) and 
+decide how to proceed using statistical methods.
+
 Goal:
 -----
 The purpose of this section is to show examples of hypothesis testing and statistical analysis.
