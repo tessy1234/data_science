@@ -97,6 +97,9 @@ For more details see repo: <code>permutation_test_for_independence_of_two_variab
 	</dd>
     <dt>C)</dt>
     <dd>
+Solution: Null hypothesis (H0) is rejected
+	</dd>
+    <dd>
 The test on the sample shows that at 10% significance, the data scientist's doesn't earn $113,000.	
 	</dd>
     <dd>
