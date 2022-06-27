@@ -60,6 +60,14 @@ Data source: &nbsp;Beerwings.csv
     <dd>
 Data source: &nbsp;GSS2002.csv	
 	</dd>	
+    <dt>C)</dt>
+    <dd>
+Data source: &nbsp;	data_scientist_salary.xlsx
+	</dd>	
+    <dt>D)</dt>
+    <dd>
+Data source: &nbsp;	email_spying.xlsx
+	</dd>	
 </dl>
 
 Result:
