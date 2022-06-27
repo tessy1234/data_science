@@ -58,27 +58,6 @@ Z = X + Y ~ PDF(Z)
 	</dd>
 </dl>
 
-Dataset:
---------
-<dl>
-    <dt>A)</dt>
-    <dd>
-Data source: &nbsp;Beerwings.csv	
-	</dd>	
-    <dt>B)</dt>
-    <dd>
-Data source: &nbsp;GSS2002.csv	
-	</dd>	
-    <dt>C)</dt>
-    <dd>
-Data source: &nbsp;	data_scientist_salary.xlsx
-	</dd>	
-    <dt>D)</dt>
-    <dd>
-Data source: &nbsp;	email_spying.xlsx
-	</dd>	
-</dl>
-
 Result:
 -------
 <dl>
@@ -150,4 +129,25 @@ It should be pointed out that a confined grid size can cause out-of-range error.
     <dd>
 For more details see repo: <code>sum_of_gaussian_random_variables_test_*.ipynb</code>
 	</dd>
+</dl>
+
+Dataset:
+--------
+<dl>
+    <dt>A)</dt>
+    <dd>
+Data source: &nbsp;Beerwings.csv	
+	</dd>	
+    <dt>B)</dt>
+    <dd>
+Data source: &nbsp;GSS2002.csv	
+	</dd>	
+    <dt>C)</dt>
+    <dd>
+Data source: &nbsp;	data_scientist_salary.xlsx
+	</dd>	
+    <dt>D)</dt>
+    <dd>
+Data source: &nbsp;	email_spying.xlsx
+	</dd>	
 </dl>
