@@ -97,6 +97,20 @@ For more details see repo: <code>permutation_test_for_independence_of_two_variab
 	</dd>
     <dt>C)</dt>
     <dd>
+Solution: Null hypothesis (H0) is rejected	
+	</dd>
+    <dd>
+For more details see repo: <code>Hypothesis_Testing_1_demo.ipynb</code>
+	</dd>
+    <dt>D)</dt>
+    <dd>
+Solution: Null hypothesis (H0) is accepted	
+	</dd>
+    <dd>
+For more details see repo: <code>Hypothesis_Testing_1_demo.ipynb</code>
+	</dd>
+    <dt>E)</dt>
+    <dd>
 The probability density function of Z was calculated by the convolution of PDF1 and PDF2 with mean and variance of PDF(Z): 
 	</dd>
     <dd>
