@@ -16,6 +16,16 @@ The researcher wanted to answer the question whether or not gender had an impact
     <dd>
 In a general social survey American were asked whether he or she favor or oppose the death penalty for murder. The question to be answered is, does support for death penalty depends on education. 	
 	</dd>
+    <dt>C)</dt>
+    <dd>
+Test for the mean. Population variance known. 
+	</dd>
+    <dd>
+H0: µ0 = 113,000; H1: µ0 ≠ 113,000; given: Population σ = 15,000
+	</dd>
+    <dd>
+Test null hypothesis at 10% significance.
+	</dd>
     <dd>
 In this example two categorical variables, Education and DeathPenalty, are tested for independence.
 	</dd>
