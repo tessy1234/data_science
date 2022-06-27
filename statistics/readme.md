@@ -136,7 +136,7 @@ Datasets:
 <dl>
     <dt>A)</dt>
     <dd>
-Data source: &nbsp;Beerwings.csv	
+A) &nbsp;Data source: &nbsp;Beerwings.csv	
 	</dd>	
     <dt>B)</dt>
     <dd>
