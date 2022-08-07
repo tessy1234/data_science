@@ -4,7 +4,7 @@ Problem statement: Predict customer churn based on customer's and team's activit
 
 Model:
 ------
-Regression model.
+Regression model: Random Forest Regressor
 
 Conclusion:
 --------------------
