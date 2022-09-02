@@ -29,3 +29,7 @@ The ACF shows two lags that are statistical relevant and confirms the two-lags m
 Therefore an ARIMA model of order (0,0,2) has been chosen (MA Model).
 
 The final plot shows the forecast of the last two days (2019.12.31 and 2020.01.01) of the time period.
+
+Deep Learning Forecasting:
+--------------------------
+A deep learning model has been chosen to forecast air temperature 24 hours in the future (deep learning forecasting folder)
