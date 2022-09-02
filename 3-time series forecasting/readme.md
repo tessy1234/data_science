@@ -9,7 +9,7 @@ therefore a three lag autoregression model has been chosen.
 
 Conclusion:
 -----------
-The forecast for the time period 01.01.2017 until 01.12.2019 shows precise predition at the beginning of the time period 
+The forecast for the time period 01.01.2017 until 01.12.2019 shows precise prediction at the beginning of the time period 
 and a fading effect towards the end of the period (AR_Model_1). 
 The plot exhibit the difference between ML prediction and time series forecasting. 
 In time series time steps depend on previous time steps and this explains the fading effect for the prediction.
