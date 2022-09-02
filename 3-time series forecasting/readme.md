@@ -5,7 +5,7 @@ Problem statement: Given ice cream production data forecast production for a fut
 Model:
 ------
 ARIMA model of order (3,0,0). The first three lags in the PACF shows high statistical significance and 
-therefore a three lag autoregression model have been chosen.
+therefore a three lag autoregression model has been chosen.
 
 Conclusion:
 -----------
