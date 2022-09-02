@@ -1,11 +1,11 @@
-Predict Customer Churn:
------------------------
-Problem statement: Predict customer churn based on customer's and team's activity..
+Auto Regression Analysis:
+-------------------------
+Problem statement: Given ice cream production data forecast production for a future time period.
 
 Model:
 ------
-Regression model: Random Forest Regressor
+ARIMA model
 
 Conclusion:
---------------------
-For a new customer with a given history track record the predicted duration may have an error of roughly 4 month.
+-----------
+The forecast for the time period 01.01.2017 until 01.12.2019 shows precise predition at the beginning of the time period and a fading effect towards the end of the period.
