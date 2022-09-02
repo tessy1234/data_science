@@ -32,4 +32,4 @@ The final plot shows the forecast of the last two days (2019.12.31 and 2020.01.0
 
 Deep Learning Forecasting:
 --------------------------
-A deep learning model has been chosen to forecast air temperature 24 hours in the future (deep learning forecasting folder)
+A deep learning model has been chosen to forecast air temperature 24 hours in the future (see deep learning forecasting folder)
